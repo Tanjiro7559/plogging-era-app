@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892555013706",
+    "project_id": "plogging-era-login-sign",
+    "storage_bucket": "plogging-era-login-sign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892555013706:android:40861dc35c5ab0dc6400b3",
+        "android_client_info": {
+          "package_name": "com.example.ploggingera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV4EH187Lo2YicLwE94t5yu5e6vArqMSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
